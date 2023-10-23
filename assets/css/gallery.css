@@ -1,0 +1,48 @@
+#gallery {
+    /* min-height: 100vh; */
+}
+.title{
+text-align: center;
+padding-block: 2em;
+font-size: 28px;
+}
+.gallery .nav {
+justify-content: center;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+color: #000;
+background-color: #BEB45A;
+border-radius:0 ;
+}
+.nav-pills .nav-link {
+color: #000;
+cursor: pointer;
+}
+.item-column {
+position: relative;
+margin-bottom: 0 !important;
+padding: 0;
+}
+.item-column::after{
+content: "";
+display: block;
+padding-bottom: 100%;
+
+}
+.gallery-item {
+position: absolute;
+width: 100%;
+height: 100%;
+object-fit: cover;
+padding: .5em;
+}
+
+.mg-prev, .mg-next {
+width: 30px;
+height: 30px;
+border-radius: 00%;
+justify-content: center;
+align-items: center;
+display: flex;
+font-size: 24px;
+}

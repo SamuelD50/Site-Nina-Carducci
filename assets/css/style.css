@@ -1,0 +1,25 @@
+
+@import url(general.css);
+
+@import url(header.css);
+
+@import url(about.css);
+
+@import url(gallery.css);
+
+@import url(quote.css);
+
+@import url(service.css);
+
+@import url(footer-contact.css);
+
+/* Média queries - de 1180px */
+@import url(MQ-1180px.css);
+
+/* Média queries - de 1000px */
+@import url(MQ-1000px.css);
+
+/* Média queries - de 650px */
+@import url(MQ-650px.css);
+
+
