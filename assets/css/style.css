@@ -1,25 +1,25 @@
 
-@import url(general.css);
+@import url(general-min.css);
 
-@import url(header.css);
+@import url(header-min.css);
 
-@import url(about.css);
+@import url(about-min.css);
 
-@import url(gallery.css);
+@import url(gallery-min.css);
 
-@import url(quote.css);
+@import url(quote-min.css);
 
-@import url(service.css);
+@import url(service-min.css);
 
-@import url(footer-contact.css);
+@import url(footer-contact-min.css);
 
 /* Média queries - de 1180px */
-@import url(MQ-1180px.css);
+@import url(MQ-1180px-min.css);
 
 /* Média queries - de 1000px */
-@import url(MQ-1000px.css);
+@import url(MQ-1000px-min.css);
 
 /* Média queries - de 650px */
-@import url(MQ-650px.css);
+@import url(MQ-650px-min.css);
 
 
