@@ -2,6 +2,9 @@
 
 Projet 5 - Débuggez et optimisez un site de photographe
 
+Avant optimisation : https://nina-carducci.github.io/
+Après optimisation : https://samueld50.github.io/Site-Nina-Carducci/
+
 Etape 1 : Prenez en main le code source
 
 Etape 2 : Débuggez l'application
